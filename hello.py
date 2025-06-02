@@ -1,1 +1,1 @@
-print("Hello, Git!")
+print(3 + 5)

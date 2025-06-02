@@ -1,2 +1,3 @@
-for i in range(2):
-  print(i)
+x = 10
+if x > 5:
+  print("Greater")
